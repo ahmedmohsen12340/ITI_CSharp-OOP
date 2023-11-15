@@ -1,0 +1,14 @@
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\bin\Debug\net6.0\Day2Lab.exe
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\bin\Debug\net6.0\Day2Lab.deps.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\bin\Debug\net6.0\Day2Lab.runtimeconfig.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\bin\Debug\net6.0\Day2Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\bin\Debug\net6.0\Day2Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\refint\Day2Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\Day2Lab.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-C#OOP\2-day2Lab\Day2\Day2Lab\obj\Debug\net6.0\ref\Day2Lab.dll
