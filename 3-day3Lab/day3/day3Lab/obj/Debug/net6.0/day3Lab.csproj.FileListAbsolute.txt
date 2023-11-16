@@ -1,0 +1,15 @@
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\bin\Debug\net6.0\day3Lab.exe
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\bin\Debug\net6.0\day3Lab.deps.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\bin\Debug\net6.0\day3Lab.runtimeconfig.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\bin\Debug\net6.0\day3Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\bin\Debug\net6.0\day3Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\refint\day3Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\ref\day3Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\3-day3Lab\day3\day3Lab\obj\Debug\net6.0\day3Lab.sourcelink.json
