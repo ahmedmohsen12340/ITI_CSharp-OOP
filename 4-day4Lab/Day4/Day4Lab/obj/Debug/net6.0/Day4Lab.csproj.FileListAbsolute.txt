@@ -1,0 +1,15 @@
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\bin\Debug\net6.0\Day4Lab.exe
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\bin\Debug\net6.0\Day4Lab.deps.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\bin\Debug\net6.0\Day4Lab.runtimeconfig.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\bin\Debug\net6.0\Day4Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\bin\Debug\net6.0\Day4Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.sourcelink.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\refint\Day4Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\Day4Lab.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C-OOP\4-day4Lab\Day4\Day4Lab\obj\Debug\net6.0\ref\Day4Lab.dll
