@@ -1,0 +1,15 @@
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\bin\Debug\net6.0\Day5Lab.exe
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\bin\Debug\net6.0\Day5Lab.deps.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\bin\Debug\net6.0\Day5Lab.runtimeconfig.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\bin\Debug\net6.0\Day5Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\bin\Debug\net6.0\Day5Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.sourcelink.json
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\refint\Day5Lab.dll
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.pdb
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\Day5Lab.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\ITI_intensiveProgram\1-ITI_C#-OOP\5-day5Lab\Day5\Day5Lab\obj\Debug\net6.0\ref\Day5Lab.dll
