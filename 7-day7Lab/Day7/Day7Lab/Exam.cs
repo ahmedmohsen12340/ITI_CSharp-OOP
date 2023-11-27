@@ -69,11 +69,18 @@ namespace Day7Lab
                     {
                         Result += question.Marks/ question.StudentAnswer.Count;
                     }
-                    Console.WriteLine("----------------------------------");
-                    Console.WriteLine(question.Body);
-                    Console.WriteLine($"your answer: {question.StudentAnswer[i]}");
-                    Console.WriteLine($"Right answer: {question.Ans.RightAnswers[i]}");
-
+                }
+                Console.WriteLine("----------------------------------");
+                Console.WriteLine(question.Body);
+                Console.WriteLine("Your Answer:");
+                for(int j=0;j< question.StudentAnswer.Count; j++)
+                {
+                    Console.WriteLine($"{question.StudentAnswer[j]}");
+                }
+                Console.WriteLine("Right Answer:");
+                for (int j = 0; j < question.StudentAnswer.Count; j++)
+                {
+                    Console.WriteLine($"{question.Ans.RightAnswers[j]}");
                 }
             }
             Console.WriteLine($"Your result in exam is ={Result} from {TotalMarks}");
